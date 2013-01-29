@@ -8,8 +8,8 @@ Gem::Specification.new do |gem|
   gem.version       = Pebbles::SuddenlyDeath::VERSION
   gem.authors       = ["ainame"]
   gem.email         = ["ainame954@facebook.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = %q{This is joke gem. When this include into some class, that will suddenly raising error. }
+  gem.summary       = %q{This provide suddenly raise error for your code.}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($/)
